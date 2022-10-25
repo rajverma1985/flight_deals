@@ -5,3 +5,4 @@
 2. Kiwi Partners Flight Search API (Free Signup, Requires Credit Card Details) - https://partners.kiwi.com/
 3. Tequila Flight Search API Documentation - https://tequila.kiwi.com/portal/docs/tequila_api
 4. Twilio SMS API - https://www.twilio.com/docs/sms
+API restrictions causing a halt, complete this project (IMP).
