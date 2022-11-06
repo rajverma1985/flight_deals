@@ -10,4 +10,4 @@ load_dotenv()
 # See http://twil.io/secure
 
 
-response = requests.get(f"{os.environ['SHEETY_ENDPOIN']}/flightDeals/prices")
+response = requests.get(f"{os.environ['SHEETY_ENDPOINT']}/flightDeals/prices")
