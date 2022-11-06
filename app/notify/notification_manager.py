@@ -1,9 +1,5 @@
 import os
-import requests
 from twilio.rest import Client
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
 class NotificationManager:

@@ -1,8 +1,6 @@
 import os
 import requests
-from dotenv import load_dotenv
 
-load_dotenv()
 sheety_url = f"{os.environ['SHEETY_ENDPOINT']}/flightDeals/prices"
 
 
