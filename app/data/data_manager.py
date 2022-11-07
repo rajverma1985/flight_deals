@@ -22,5 +22,6 @@ class DataManager:
                 }
             }
             response = requests.put(url=f"{sheety_url}/{city_dict['id']}", json=data)
+
             response.raise_for_status()
             print(response.text)
