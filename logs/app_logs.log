@@ -1,0 +1,15 @@
+2022-11-07 22:29:07,106 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:29:28,142 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:29:32,130 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:29:38,781 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:30:25,589 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:32:04,779 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:32:04,780 - applogger - INFO - Sheety API GET call done! but we hit an error: %s
+2022-11-07 22:33:10,895 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:33:10,896 - applogger - INFO - Sheety API GET call done! but we hit an error: {'errors': [{'detail': 'Monthly quota has been reached. Please upgrade to continue making requests.'}]}
+2022-11-07 22:33:26,980 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:33:26,980 - applogger - INFO - Sheety API GET call done! but we hit an error:
+ {'errors': [{'detail': 'Monthly quota has been reached. Please upgrade to continue making requests.'}]}
+2022-11-07 22:35:18,825 - applogger - INFO - Sheety API GET call done!
+2022-11-07 22:35:18,825 - applogger - INFO - Sheety API GET call done! but we hit an error:
+ {'errors': [{'detail': 'Monthly quota has been reached. Please upgrade to continue making requests.'}]}
